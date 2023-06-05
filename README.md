@@ -1,2 +1,2 @@
-# Basic Data Types
+# Program Structure
 

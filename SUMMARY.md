@@ -1,16 +1,17 @@
 # Table of contents
 
-* [Basic Data Types](README.md)
+* [Program Structure](README.md)
+  * [Names](program-structure/names.md)
+  * [Declarations](program-structure/declarations.md)
+  * [Variables](program-structure/variables.md)
+  * [Assignments](program-structure/assignments.md)
+  * [Type Declarations](program-structure/type-declarations.md)
+  * [Packages and Files](program-structure/packages-and-files.md)
+  * [Scope](program-structure/scope.md)
+* [Basic Data Types](<README (1).md>)
   * [Integer](basic-data-types/integer.md)
   * [Floating-Point Number](basic-data-types/floating-point-number.md)
   * [Complex Numbers](basic-data-types/complex-numbers.md)
   * [Booleans](basic-data-types/booleans.md)
   * [Strings](basic-data-types/strings.md)
   * [Constants](basic-data-types/constants.md)
-
-## Composite Types
-
-* [Arrays](composite-types/arrays.md)
-* [Slices](composite-types/slices.md)
-* [Maps](composite-types/maps.md)
-* [Structs](composite-types/structs.md)
