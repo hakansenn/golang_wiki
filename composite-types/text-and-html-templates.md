@@ -1,2 +1,0 @@
-# Text and HTML Templates
-
